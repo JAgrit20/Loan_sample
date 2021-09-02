@@ -1,9 +1,6 @@
-# React-Redux Loan
+Here is the sample video of the same,
 
-### Desc:
+google login code is also added but didnt worked perfectly 
+the rest is working fine
 
-> A simple application for Loan Application 
-
-### Tech Stack
-	- React.JS
-	- Bootstrap
+![](https://github.com/JAgrit20/Loan_sample/blob/master/final.gif)
